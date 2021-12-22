@@ -1,9 +1,9 @@
 ---
-layout: layout
-title: Documento 1
-permalink: /documentation/document1/
+layout: blog-template.html
+title: Blog
+permalink: /documentation/blog/
 ---
 
 ##### {{ page.title }}
 
-Escriba aquí su documentación
+Este es mi blog
