@@ -3,9 +3,10 @@
 
   <head>
     <meta charset="utf-8">
-    <title>{{page.title}}</title>
+    <title>{{blog-template}}</title>
     <meta name="author" content="">
     <meta name="description" content="">
+    <meta name="data" content="22/12/2021">
   </head>
 
   <body>
@@ -18,13 +19,7 @@
       {% include nav.html %}
     </nav>
 
-    <aside>
-      {% include aside.html %}
-    </aside>
-
-    <section>
-      {{content}}
-    </section>
+    {{content}}
 
     <footer>
       {% include footer.html %}
