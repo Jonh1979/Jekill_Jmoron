@@ -7,7 +7,7 @@ description: >-
 baseurl: "/Jekill_Jmoron"
 url: "https://jonh1979.github.io"
 
-theme: minima
+theme: jekyll-theme-cayman
 #plugins:
 #  - jekyll-feed
 
