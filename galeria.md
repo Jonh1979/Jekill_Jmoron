@@ -1,9 +1,12 @@
 ---
 layout: layout
 title:imagenes
-permalink: /images/
----
+permalink: /galeria/
 
-<a ref:><>
-<a ref:><>
-<a ref:><>
+---
+IMAGENES
+
+<img src="images/captura1.png" alt="captura_1">
+<img src="images/captura2.png" alt="captura_2">
+<img src="images/captura3.png" alt="captura_3">
+
