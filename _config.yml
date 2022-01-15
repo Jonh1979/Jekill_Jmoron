@@ -7,7 +7,7 @@ description: >-
 baseurl: "/Jekill_Jmoron"
 url: "https://jonh1979.github.io"
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-merlot
 #plugins:
 #  - jekyll-feed
 
